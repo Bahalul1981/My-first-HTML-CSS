@@ -1,0 +1,145 @@
+.my-first{
+    background-color: rgba(173, 168, 98, 0.315);
+    text-align: center;
+    padding: 8% 3%;
+    padding-top: 70px;
+ 
+     
+}
+.my-first a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 15px 40px;
+    cursor: pointer;
+    background-color: rgb(2, 1, 1);
+}
+.myrose{
+    padding: 70px 450px;
+    text-align: center;
+    padding: auto;
+}
+.myrose12{
+ background-color: rgb(94, 138, 134);
+ height: 150px;
+ width: 300px;
+ text-align: left;
+
+
+}
+.dropdown{
+    display: inline;
+    position: relative;
+}
+.dropdown-content a{
+    display: block;
+
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.dropdown-content{
+    position: absolute;
+    top: 30px;
+    right: 0px;
+    background-color: black;
+    text-align: center;
+    min-width: 100px;
+    display: none;
+}
+.dropdown-content a:hover{
+    background-color: red;
+
+}
+.findus{
+    display: inline;
+    position: relative;
+}
+.finsus2 a{
+    display: block;
+}
+.findus:hover .finsus2{
+    display:block;
+}
+.finsus2{
+    position:absolute;
+    top: 30px;
+    right: 0px;
+    background-color: black;
+    text-align: center;
+    min-width: 100px;
+    display: none;
+}
+.finsus2 a:hover{
+    background-color: red;
+
+}
+.inputnumber{
+    
+    padding-left: 3rem;
+    
+}
+.input11{
+   min-width: 200px;
+   height: 25px;
+   
+}
+.firsth2{
+   
+    text-align: center;
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 300px;
+    font-size: 1.5rem;
+    
+}
+.topfivebrand{
+    padding-left: 80px;
+    font-size: 1rem;
+    
+}
+
+.muol{
+    
+    padding-left: 80px;
+    font-size: 1rem
+}
+.torenia{
+    padding-top: 30px;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(167, 131, 64);
+    text-align: left;
+}
+.mysceong{
+    padding-top: 30px;
+    height: 200px;
+    width: 220px;
+    background-color: rgb(219, 201, 172);
+    text-align: left;
+    padding-left: 80px;
+  
+}
+.news{
+   
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    
+}
+.amimia{
+    color: rgb(90, 75, 9);
+    font-size: 3rem;
+}
+.aminmia2{
+    color: rgb(87, 72, 6);
+    font-size: 2rem;
+}
+.bahalulmia{
+    position: absolute;
+    top: 20px;
+    right: 110px;
+    font-size: 18px;
+}
